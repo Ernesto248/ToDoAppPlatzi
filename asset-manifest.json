@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ernesto248/ToDoAppPlatzi.git/static/css/main.8fd7583c.css",
+    "main.js": "/Ernesto248/ToDoAppPlatzi.git/static/js/main.a3fe4176.js",
+    "index.html": "/Ernesto248/ToDoAppPlatzi.git/index.html",
+    "static/media/delete.svg": "/Ernesto248/ToDoAppPlatzi.git/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/Ernesto248/ToDoAppPlatzi.git/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.8fd7583c.css.map": "/Ernesto248/ToDoAppPlatzi.git/static/css/main.8fd7583c.css.map",
+    "main.a3fe4176.js.map": "/Ernesto248/ToDoAppPlatzi.git/static/js/main.a3fe4176.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fd7583c.css",
+    "static/js/main.a3fe4176.js"
+  ]
+}
